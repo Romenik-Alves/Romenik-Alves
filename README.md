@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ![Pysimplegui](https://img.shields.io/badge/-PYSIMPLEGUI-0D1117?style=for-the-badge&logo=simpleicons&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PYCHARM-0D1117?style=for-the-badge&logo=pycharm&labelColor=0D1117)&nbsp;
 ![Pypi](https://img.shields.io/badge/-PYPI-0D1117?style=for-the-badge&logo=pypi&labelColor=0D1117)&nbsp;
-![Data.Science](https://img.shields.io/badge/-DATA.SCIENCE-0D1117?style=for-the-badge&logo=365datascience&labelColor=0D1117)&nbsp;
+![Data_Science](https://img.shields.io/badge/-DATA_SCIENCE-0D1117?style=for-the-badge&logo=365datascience&labelColor=0D1117)&nbsp;
 ![Tableau](https://img.shields.io/badge/-TABLEAU-0D1117?style=for-the-badge&logo=tableau&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
